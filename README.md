@@ -2,7 +2,7 @@ Eye Weakness Test
 
 Technical support email: thoughqqii@hotmail.com
 
-It's a software that helps users analyse their eye weakness.
+It's a software that helps users test their eye weakness.
 
 Common inspection Methods:
 
