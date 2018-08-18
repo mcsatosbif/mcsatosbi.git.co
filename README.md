@@ -1,4 +1,4 @@
-Eye Weakness Analytical Assistant
+Eye Weakness Test
 
 Technical support email: thoughqqii@hotmail.com
 
